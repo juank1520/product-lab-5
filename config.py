@@ -1,0 +1,8 @@
+DROP_FEATURES = ['Cabin', 'Name', 'Ticket']
+MEAN_IMPUTATION = ['Age', 'Fare']
+MISSING_IMPUTATION = ['Embarked']
+CATEGORICAL_BINARY = ['Sex']
+CATEGORICAL_ORDINAL = ['Pclass']
+CATEGORICAL_NOMINAL = ['Embarked']
+NUMERICALS_YEO_JOHNSON = ['Age', 'Fare']
+FEATURES = ['Pclass', 'Sex', 'Age', 'SibSp', 'Parch', 'Fare', 'Embarked']
